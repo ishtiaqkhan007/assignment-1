@@ -90,3 +90,9 @@ h2 {
     color: #b3b3b3;
     font-weight: 550;
 }
+
+.design {
+    border: 2px solid orangered;
+    color: #ff7b4b;
+    background-color: #ffe2d8;
+}
