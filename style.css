@@ -8,22 +8,33 @@ body {
 
 h1 {
     color: white;
-    padding: 250px 300px 0 300px;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 50px;
+    padding: 250px 250px 0 250px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
     text-align: center;
 }
 
 .heading-paragraph {
+    font-family: 'Ubuntu', sans-serif;
     color: white;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     padding: 0 310px;
     font-style: italic;
 }
 
 #donate {
     color: red;
-    font-weight: 600;
+    font-weight: 500;
     text-shadow: 2px 2px 5px white;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5%;
+    margin: 0 auto;
 }
