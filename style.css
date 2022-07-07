@@ -124,3 +124,52 @@ h2 {
     padding: 30px 20px 10px 20px;
     margin: 10px;
 }
+
+#footer {
+    padding-top: 20px;
+    color: red;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#fb {
+    background-color: #080a11;
+    margin-bottom: 0%;
+}
+
+#ftr {
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+}
+
+#sub-button {
+    display: flex;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    margin: 0 200px;
+    background-color: rgb(255, 208, 200);
+    padding: 60px 50px;
+}
+
+#em {
+    padding-right: 100px;
+    padding-left: 20px;
+    background-color: rgb(190, 190, 190);
+    color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+
+.sbutton {
+    background-color: tomato;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
