@@ -34,11 +34,7 @@ h1 {
     text-shadow: 2px 2px 5px white;
 }
 
-#s1 {
-    display: block;
-}
-
-#s2 {
+.s1 {
     display: block;
 }
 
@@ -95,4 +91,36 @@ h2 {
     border: 2px solid orangered;
     color: #ff7b4b;
     background-color: #ffe2d8;
+}
+
+.cn2 {
+    display: flex;
+    margin: 20px;
+    padding: 30px 150px;
+    height: 350px;
+}
+
+.same {
+    color: black;
+    font-size: 30px;
+    display: inline;
+    width: 50%;
+}
+
+#dbb1 {
+    background-color: rgb(196, 156, 235);
+    padding: 30px 20px 10px 20px;
+    margin: 10px;
+}
+
+#dbb2 {
+    background-color: rgb(171, 190, 142);
+    padding: 30px 20px 10px 20px;
+    margin: 10px;
+}
+
+#dbb3 {
+    background-color: rgb(255, 230, 234);
+    padding: 30px 20px 10px 20px;
+    margin: 10px;
 }
